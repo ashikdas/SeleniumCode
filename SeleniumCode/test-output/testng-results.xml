@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13414" started-at="2021-09-30T18:02:01Z" finished-at="2021-09-30T18:02:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13414" started-at="2021-09-30T18:02:01Z" finished-at="2021-09-30T18:02:14Z">
+      <class name="frameworke_implementation.SignIn_page_TestNG">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:frameworke_implementation.SignIn_page_TestNG@27c20538]" name="Setup" is-config="true" duration-ms="5080" started-at="2021-10-01T00:02:01Z" finished-at="2021-10-01T00:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="ContactUsPage()[pri:2, instance:frameworke_implementation.SignIn_page_TestNG@27c20538]" name="ContactUsPage" duration-ms="5227" started-at="2021-10-01T00:02:06Z" finished-at="2021-10-01T00:02:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactUsPage -->
+        <test-method status="PASS" signature="SignInTest()[pri:3, instance:frameworke_implementation.SignIn_page_TestNG@27c20538]" name="SignInTest" duration-ms="2841" started-at="2021-10-01T00:02:11Z" finished-at="2021-10-01T00:02:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:frameworke_implementation.SignIn_page_TestNG@27c20538]" name="TearDown" is-config="true" duration-ms="251" started-at="2021-10-01T00:02:14Z" finished-at="2021-10-01T00:02:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- frameworke_implementation.SignIn_page_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
