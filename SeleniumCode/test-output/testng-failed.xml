@@ -3,13 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="frameworke_implementation.SignIn_page_TestNG">
+      <class name="frameworke_implementation.Assertion_testNG">
         <methods>
-          <include name="TearDown"/>
-          <include name="Setup"/>
-          <include name="SignInTest"/>
+          <include name="testcase3"/>
+          <include name="testcase1"/>
         </methods>
-      </class> <!-- frameworke_implementation.SignIn_page_TestNG -->
+      </class> <!-- frameworke_implementation.Assertion_testNG -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
